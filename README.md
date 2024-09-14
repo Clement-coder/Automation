@@ -56,8 +56,8 @@ Follow these steps to get your infrastructure up and running:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/azure-terraform-automation.git
-   cd azure-terraform-automation
+   git clone https://github.com/Clementvsc/Automation.git
+   cd Automation
    ```
 
 2. **Log in to Azure**:
@@ -129,7 +129,7 @@ Provisions:
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+2. Create your feature branch (`git checkout -b feature/New`)
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
